@@ -24,7 +24,7 @@ jquery_lang_js.prototype.lang.sk = {
 	// Footer
 	
 	'Copyright © 2016 Reason Company Software Inc.':
-		'Copyright © 2016 Reason Company Software Inc. Slovenský preklad: <a href="mailto:pkolasa@outlook.com?Subject=preklad Unchecky">Piotr Kolasa</a>',
+		'Copyright © 2016 Reason Company Software Inc. Slovenský preklad: <a href="mailto:matus.mihok.uk@gmail.com?Subject=preklad Unchecky">Matus Mihok</a>',
 	
 	// Legal
 	
@@ -65,7 +65,7 @@ jquery_lang_js.prototype.lang.sk = {
 	'Watch Unchecky in action':
 		'SLeduj Unchecky v akcii!',
 	'<a href="press#quotes">See what people are saying about Unchecky</a> or <a href="press#videos">watch more videos</a>.':
-		'<a href="press#quotes">Pozri čo ľudia hovoria o Unchecky</a> alebo <a href="press#videos">obejrzyj więcej filmów</a>.',
+		'<a href="press#quotes">Pozri čo ľudia hovoria o Unchecky</a> alebo <a href="press#videos">sleduj viac videí</a>.',
 	
 	// Press
 	
